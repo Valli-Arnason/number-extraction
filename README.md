@@ -1,1 +1,1 @@
-When you lists of numerical seqeuences, such as product inventory numbers (SKUS), arriving from various sources, such as in a block of text, or from variously formatted text, you can use this isolate the list of numbers and return them comma seperated.
+With lists of numerical seqeuences, such as product inventory numbers (SKUS), arriving from various sources, such as in a block of text, or from variously formatted text, you can use this isolate the list of numbers and return them comma seperated.
